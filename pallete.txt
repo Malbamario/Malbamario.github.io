@@ -1,0 +1,3 @@
+dark : 061B0F
+main : 00C460
+light: E4F9E8
